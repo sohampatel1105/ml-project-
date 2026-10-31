@@ -6,4 +6,4 @@ accelerate
 deep-translator
 librosa
 soundfile
-ffmpeg
+
